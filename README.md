@@ -93,5 +93,18 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" title="" alt="" width="100" height="100"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="" alt="" width="100" height="100"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" title="" alt="" width="100" height="100"/>&nbsp;
-  
+
 </div>
+
+---
+
+### :fire: My Stats :
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abderrahmanebennaceur&show_icons=true&theme=dark" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahmanebennaceur&theme=dark" />
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmanebennaceur&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</p>
